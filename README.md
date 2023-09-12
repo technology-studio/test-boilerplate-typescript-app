@@ -1,0 +1,8 @@
+![npm](https://img.shields.io/npm/v/@txo/test-boilerplate-typescript-app)
+![codecov](https://img.shields.io/codecov/c/github/technology-studio/test-boilerplate-typescript-app)
+# Test boilerplate typescript #
+
+Test boilerplate typescript
+
+# Contribution
+To add new changes, base your branch from `auto-update-dependencies` and also use it as a base for your PR. When the PR is merged, we can then sync the new changes from `auto-update-dependencies` to `master`. We can do that by creating a branch with a date (`YYYY-MM-DD-sync-master-with-auto-update-dependencies`) and creating another PR.
